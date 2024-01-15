@@ -1,0 +1,327 @@
+/* 
+  Localizable.strings
+  SHARMIVAL
+
+  Created by Emojiios on 06/09/2022.
+  
+*/
+
+"lang" = "ru";
+
+"back" = "назад";
+
+"Cancel" = "Отмена";
+
+"Close" = "Закрывать";
+
+"Done" = "Сделанный";
+
+"of" = "из";
+
+"photo" = "Фото";
+
+"photos" = "фото";
+
+"Try Again" = "Попробуйте еще раз";
+
+"Loading ...." = "Загрузка ....";
+
+"Pull more" = "Тянуть больше...";
+
+"Updating" = "Обновление...";
+
+"Error" = "Ошибка";
+
+"Success" = "Успех";
+
+"Warning" = "Предупреждение";
+
+"second" = "второй";
+
+"min" = "мин";
+
+"hour" = "час";
+
+"day" = "день";
+
+"week" = "неделя";
+
+"month" = "месяц";
+
+"Year" = "Год";
+
+"ago" = "назад";
+
+"s" = "с";
+
+"Something went wrong" = "Что-то пошло не так";
+
+"The request timed out." = "Время запроса истекло.";
+
+"InternetNotAvailable" = "Интернет-соединение недоступно!";
+
+"There is no change in the data" = "В данных нет изменений";
+
+"Something went wrong while processing your request, please try again later" = "Что-то пошло не так при обработке вашего запроса, повторите попытку позже";
+
+
+////// StatusCodes
+
+"ERROR MESSAG" = "СООБЩЕНИЕ ОБ ОШИБКЕ";
+"No Content" = "Без содержания";
+"NotModified" = "Не изменено";
+"Bad Request" = "Неверный запрос";
+"Unauthorized" = "Неавторизованный";
+"Not Found" = "не обнаружена";
+"NotAllowed" = "Не допускается";
+"internalServerError" = "Внутренняя ошибка сервера";
+"Email is used" = "Электронная почта используется";
+"Phone Number is used" = "Номер телефона используется";
+"User already exists" = "Пользователь уже существует";
+"You have reached the invitation limit" = "Вы достигли лимита приглашений";
+
+////// FloatingTF
+
+"It can't be empty" = "Это не может быть пустым";
+
+"Enter the email correctly" = "Введите адрес электронной почты правильно";
+
+"The phone number should begin with 01" = "Введите номер телефона правильно";
+
+"Password must be more than 6 elements" = "Пароль должен состоять более чем из 6 элементов";
+
+
+//////  LocalizableScreen
+
+"Choose" = "Выбирать";
+
+"Language" = "Язык";
+
+"Let’s start" = "Давайте начнем";
+
+"your preferred" = "твой любимый";
+
+//////  WelcomeScreen
+
+"Next" = "Следующий";
+
+"FIND" = "НАЙТИ";
+
+"terms" = "условия";
+
+"Where" = "Где";
+
+"DON’T" = "НЕ";
+
+"AROUND" = "ОКОЛО";
+
+"Submit" = "Разместить";
+
+"YOUR WAY" = "ТВОЙ ПУТЬ";
+
+"Pervious" = "Проницаемый";
+
+"MISS OUT" = "ПРОПУСТИТЬ";
+
+"SHARMIVAL" = "SHARMIVAL";
+
+"Settings" = "Настройки";
+
+"Allow notification Access" = "Разрешить доступ к уведомлениям";
+
+"Allow notification access in your device settings." = "Разрешите доступ к уведомлениям в настройках вашего устройства.";
+
+"respects your privacy" = "уважает вашу конфиденциальность";
+
+"I understand & accept the" = "Я понимаю и принимаю";
+
+"Creativity & Culture meet Care" = "Творчество и культура встречаются с заботой";
+
+"Location Permission Required" = "Требуется разрешение на местоположение";
+
+"Please enable location permissions in settings." = "Включите разрешение на определение местоположения в настройках.";
+
+"WelcomeMessage1" = "Пришло время принять участие в первом городском карнавале в Египте, где творческие искусства египетской культуры будут практиковаться и распространяться на протяжении всего карнавала. В этом году мир станет свидетелем 3 полных дней праздников и культурных мероприятий в городе Шарм-эль-Шейх, Египет, знакомящих со всеми элементами египетской культуры и заботящимися об окружающей среде.";
+
+"WelcomeMessage2" = "Sharmival уделяет большое внимание вашей конфиденциальности и не использует никакие личные данные, как указано в заявлении о конфиденциальности. Я понимаю и разрешаю этому приложению просматривать информацию, необходимую для работы приложения";
+
+"WelcomeMessage3" = "Разрешите уведомления и узнавайте об этом первыми. Будьте в курсе всех новостей, предупреждений и объявлений, связанных с Sharmival.";
+
+"WelcomeMessage4" = "Разрешая Sharmival использовать вашу службу определения местоположения, Sharmival может информировать вас о точном местоположении каждого места.";
+
+
+////// MyAccountVC
+
+"My" = "Мой";
+
+"Or" = "Или же";
+
+"Google" = "Google";
+
+"guest" = "гость";
+
+"Sign up" = "Подписаться";
+
+"Account" = "счет";
+
+"Sign in" = "Войти";
+
+"Facebook" = "Facebook";
+
+"Continue as a" = "Продолжить как";
+
+"Sign up for your Sharmival account to unlock extra features such as your location tracking." = "Зарегистрируйте свою учетную запись Sharmival, чтобы разблокировать дополнительные функции, такие как отслеживание вашего местоположения.";
+
+
+////// SignInVC
+
+"In" = "";
+
+"Sign" = "Войти";
+
+"Phone number" = "Номер телефона";
+
+"Select your country" = "Выберите свою страну";
+
+
+///// SignUpVC
+
+"UP" = "";
+
+"Sign" = "Подписаться";
+
+"Last Name" = "Фамилия";
+
+"First Name" = "Имя";
+
+"Email Address" = "Адрес электронной почты";
+
+///// VerificationVC
+
+"sec" = "сек";
+
+"Enter" = "Войти";
+
+"Validate" = "Подтвердить";
+
+"Resend OTP" = "Повторно отправить одноразовый код";
+
+"Edit Number" = "Изменить номер";
+
+"Verification Code" = "Код верификации";
+
+"OTP is not correct" = "ОТП не правильный";
+
+"Enter the code sent to" = "Введите код, отправленный на";
+
+"The code will be resend in" = "Код будет повторно отправлен в";
+
+
+///// TabBarController
+
+"Map" = "Карта";
+
+"More" = "Еще";
+
+"Home" = "Дом";
+
+"Events" = "События";
+
+"Program" = "Программа";
+
+
+////// HomeVC
+
+"Our" = "Наш";
+
+"Days" = "Дней";
+
+"Mins" = "Мин";
+
+"Hours" = "Часы";
+
+"Gallery" = "Галерея";
+
+"View all" = "Посмотреть все";
+
+"Welcome to" = "Добро пожаловать в";
+
+"Mark your Calendar for Nov" = "Отметьте свой календарь на ноябрь";
+
+
+////// Program
+
+"Show Fav" = "Показать избранное";
+
+"Explore our" = "Исследуйте наш";
+
+
+////// Events
+
+"All Days" = "Все дни";
+
+"Upcoming" = "Предстоящие";
+
+
+////// Notification
+
+"Delete" = "Видалити";
+
+"Notification" = "Сповіщення";
+
+"Delete Notification" = "Видалити сповіщення";
+
+"Are You Sure You Want to Delete this Notifications" = "Ви впевнені, що хочете видалити ці сповіщення?";
+
+
+
+////// PersonalVC
+
+"Save" = "Сохранять";
+
+"Camera" = "Камера";
+
+"Photo Library" = "Библиотека фотографий";
+
+"There is no change in the data" = "В данных нет изменений";
+
+"Update image Error" = "Ошибка обновления изображения";
+
+"The image has been successfully updated" = "Изображение успешно обновлено";
+
+"Your personal data has been updated successfully" = "Ваши личные данные были успешно обновлены";
+
+
+////// MoreVC
+
+"FAQS" = "Часто задаваемые вопросы";
+
+"Scan" = "Сканировать";
+
+"Explore" = "Исследовать";
+
+"Setting" = "Параметр";
+
+"Log Out" = "Выйти";
+
+"Currency" = "Валюта";
+
+"Sponsors" = "Спонсоры";
+
+"Get Bracelet" = "Получить браслет";
+
+"Transportation" = "Транспорт";
+
+"Sharmival Currency" = "Валюта Шармиваль";
+
+"View locations on the map" = "Посмотреть места на карте";
+
+"Are You Sure You Want to log out of your account" = "Вы уверены, что хотите выйти из своей учетной записи?";
+
+"Staff scan guest’s card/bracelet to place an order from the menu" = "Персонал сканирует карту/браслет гостя, чтобы сделать заказ из меню";
+
+"“Used for buying anything from the Bazars, Stores and F&B Kiosks”" = "Используется для покупки чего-либо на базарах, в магазинах и киосках F&B.";
+
+"“A cashless payment method that facilitates to you the payment process in Sharmival”" = "Безналичный способ оплаты, облегчающий вам процесс оплаты в Шармивале.";
+
+"Guest goes to top up booth to create a card / bracelet with their own associated data and add balance" = "Гость идет в будку пополнения, чтобы создать карту/браслет со своими связанными данными и пополнить баланс.";

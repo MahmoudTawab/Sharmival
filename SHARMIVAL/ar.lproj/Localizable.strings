@@ -1,0 +1,328 @@
+/* 
+  Localizable.strings
+  SHARMIVAL
+
+  Created by Emojiios on 06/09/2022.
+  
+*/
+
+"lang" = "ar";
+
+"Cancel" = "الغاء";
+
+"back" = "الى الخلف";
+
+"Close" = "أغلق";
+
+"Done" = "تم";
+
+"of" = "من";
+
+"photo" = "صوره";
+
+"photos" = "الصور";
+
+"Try Again" = "حاول مجددآ";
+
+"Loading ...." = "جار التحميل ....";
+
+"Pull more" = "اسحب المزيد...";
+
+"Updating" = "جارٍ التحديث...";
+
+"Error" = "خطأ";
+
+"Success" = "نجاح";
+
+"Warning" = "تحذير";
+
+"min" = "دقيقة";
+
+"hour" = "ساعة";
+
+"day" = "يوم";
+
+"week" = "أسبوع";
+
+"month" = "شهر";
+
+"Year" = "سنة";
+
+"ago" = "منذ";
+
+"s" = "ث";
+
+"Something went wrong" = "هناك خطأ ما";
+
+"The request timed out." = ".انتهت مهله الطلب";
+
+"InternetNotAvailable" = "اتصال الإنترنت غير متوفر!";
+
+"There is no change in the data" = "لا يوجد تغيير في البيانات";
+
+"Something went wrong while processing your request, please try again later" = "حدث خطأ ما أثناء معالجة طلبك ، يرجى المحاولة مرة أخرى في وقت لاحق";
+
+
+////// StatusCodes
+
+"ERROR MESSAG" = "رسالة خطأ";
+"No Content" = "لا يوجد محتوى";
+"NotModified" = "غير معدل";
+"Bad Request" = "اقتراح غير جيد";
+"Unauthorized" = "غير مصرح";
+"Not Found" = "لم يتم العثور على";
+"NotAllowed" = "غير مسموح";
+"internalServerError" = "خطأ في الخادم الداخلي";
+"Email is used" = "البريد الإلكتروني مستخدم";
+"Phone Number is used" = "رقم الهاتف مستخدم";
+"User already exists" = "المستخدم موجود اصلا";
+"You have reached the invitation limit" = "لقد وصلت إلى حد الدعوة";
+
+////// FloatingTF
+
+"It can't be empty" = "لا يمكن أن تكون فارغة";
+
+"Enter the email correctly" = "أدخل البريد الإلكتروني بشكل صحيح";
+
+"The phone number should begin with 01" = "أدخل رقم الهاتف بشكل صحيح";
+
+"Password must be more than 6 elements" = "يجب أن تكون كلمة المرور أكثر من 6 عناصر";
+
+
+//////  LocalizableScreen
+
+"Choose" = "اختار";
+
+"Language" = "اللغة";
+
+"Let’s start" = "لنبدأ";
+
+"your preferred" = "الافضل لك من";
+
+
+//////  WelcomeScreen
+
+"Next" = "التالي";
+
+"FIND" = "تجد";
+
+"terms" = "مصلحات";
+
+"Where" = "أين";
+
+"DON’T" = "لا";
+
+"AROUND" = "حول";
+
+"Submit" = "تاكيد";
+
+"YOUR WAY" = "طريقك";
+
+"Pervious" = "السابق";
+
+"MISS OUT" = "يفقد";
+
+"SHARMIVAL" = "شارميفال";
+
+"Settings" = "إعدادات";
+
+"Allow notification Access" = "السماح بالوصول إلى الإخطارت";
+
+"Allow notification access in your device settings." = "اسمح بالوصول إلى الإشعارات في إعدادات جهازك.";
+
+"respects your privacy" = "تحترم خصوصيتك";
+
+"I understand & accept the" = "أنا أفهم وأوافق على";
+
+"Creativity & Culture meet Care" = "الإبداع والثقافة تلبية الرعاية";
+
+"Location Permission Required" = "مطلوب إذن الموقع";
+
+"Please enable location permissions in settings." = "الرجاء تمكين أذونات الموقع في الإعدادات.";
+
+"WelcomeMessage1" = "حان الوقت لتجربة كرنفال المدينة الأول في مصر حيث سيتم ممارسة الفنون الإبداعية للثقافة المصرية واحتضانها في جميع أنحاء الكرنفال. هذا العام ، سيشهد العالم 3 أيام كاملة من الاحتفالات والفعاليات الثقافية في مدينة شرم الشيخ ، مصر ، للتعريف بجميع العناصر الثقافية المصرية مع الاهتمام الجيد ببيئتنا.";
+
+"WelcomeMessage2" = "تأخذ شارميفال خصوصيتك في غاية الأهمية ولا تستخدم أي بيانات شخصية كما هو مذكور في بيان الخصوصية. أفهم وأصرح لهذا التطبيق بالرجوع إلى المعلومات اللازمة لتشغيل التطبيق";
+
+"WelcomeMessage3" = "اسمح بالإشعارات وكن أول من يعلم. ابق على اطلاع دائم بجميع الأخبار والتنبيهات والإعلانات المتعلقة بشرميفال.";
+
+"WelcomeMessage4" = "يمكن لـشارميفال إخطارك بالمواقع الدقيقة لكل بقعة. من خلال السماح لـشارميفال باستخدام خدمة الموقع الخاصة بك";
+
+
+
+
+////// MyAccountVC
+
+"My" = "الحساب";
+
+"Or" = "أو";
+
+"Google" = "جوجل";
+
+"guest" = "زائر";
+
+"Sign up" = "انشاء حساب";
+
+"Account" = "الخاص";
+
+"Sign in" = "تسجيل الدخول";
+
+"Facebook" = "فيسبوك";
+
+"Continue as a" = "تواصل كملف";
+
+"Sign up for your Sharmival account to unlock extra features such as your location tracking." = "قم بالتسجيل في حساب شارميفال الخاص بك لفتح ميزات إضافية مثل تتبع موقعك.";
+
+
+////// SignInVC
+
+"In" = "الدخول";
+
+"Sign" = "تسجيل";
+
+"Phone number" = "رقم الهاتف";
+
+"Select your country" = "اختر بلدك";
+
+
+///// SignUpVC
+
+"UP" = "الحساب";
+
+"Sign" = "انشاء";
+
+"Last Name" = "الاسم الاخير";
+
+"First Name" = "الاسم الاول";
+
+"Email Address" = "عنوان البريد الالكترونى";
+
+
+///// VerificationVC
+
+"sec" = "ثانية";
+
+"Enter" = "ادخل";
+
+"Validate" = "تحقق";
+
+"Resend OTP" = "إعادة إرسال رمز التحقق";
+
+"Edit Number" = "تعديل الرقم";
+
+"Verification Code" = "رمز التحقق";
+
+"OTP is not correct" = "رمز التحقق غير صالح";
+
+"Enter the code sent to" = "أدخل الرمز المرسل إلى";
+
+"The code will be resend in" = "سيتم إعادة إرسال الرمز خلال";
+
+
+///// TabBarController
+
+"Map" = "خريطة";
+
+"More" = "المزيد";
+
+"Home" = "الصفحة الرئيسية";
+
+"Events" = "الأحداث";
+
+"Program" = "برنامج";
+
+
+////// HomeVC
+
+"Our" = "";
+
+"Days" = "أيام";
+
+"Mins" = "دقائق";
+
+"Hours" = "ساعات";
+
+"Gallery" = "المعرض";
+
+"View all" = "عرض الكل";
+
+"Welcome to" = "مرحبًا بك في";
+
+"Mark your Calendar for Nov" = "ضع علامة على التقويم الخاص بك لشهر نوفمبر";
+
+
+////// Program
+
+"Show Fav" = "عرض مفضل";
+
+"Explore our" = "استكشف";
+
+
+////// Events
+
+"All Days" = "كل الأيام";
+
+"Upcoming" = "القادمة";
+
+
+////// Notification
+
+"Delete" = "حذف";
+
+"Notification" = "الاخطار";
+
+"Delete Notification" = "حذف الإخطار";
+
+"Are You Sure You Want to Delete this Notifications" = "هل أنت متأكد أنك تريد حذف هذه الإخطارات";
+
+
+////// PersonalVC
+
+"Save" = "حفظ";
+
+"Camera" = "الكاميرا";
+
+"Photo Library" = "مكتبة الصور";
+
+"There is no change in the data" = "لا يوجد تغيير في البيانات";
+
+"Update image Error" = "خطأ في تحديث الصورة";
+
+"The image has been successfully updated" = "تم تحديث الصورة بنجاح";
+
+"Your personal data has been updated successfully" = "تم تحديث بياناتك الشخصية بنجاح";
+
+
+////// MoreVC
+
+"FAQS" = "أسئلة وأجوبة";
+
+"Scan" = "مسح";
+
+"Explore" = "اكتشف";
+
+"Setting" = "الضبط";
+
+"Log Out" = "تسجيل خروج";
+
+"Currency" = "عملة";
+
+"Sponsors" = "الرعاة";
+
+"Get Bracelet" = "احصل على سوار";
+
+"Transportation" = "وسائل النقل";
+
+"Sharmival Currency" = "عملة شارميفال";
+
+"View locations on the map" = "عرض المواقع على الخريطة";
+
+"Are You Sure You Want to log out of your account" = "هل أنت متأكد أنك تريد تسجيل الخروج من حسابك";
+
+"Staff scan guest’s card/bracelet to place an order from the menu" = "يقوم الموظفون بمسح بطاقة / سوار الضيف لوضع طلب من القائمة";
+
+"“Used for buying anything from the Bazars, Stores and F&B Kiosks”" = "تُستخدم لشراء أي شيء من البازارات والمتاجر وأكشاك المأكولات والمشروبات";
+
+"“A cashless payment method that facilitates to you the payment process in Sharmival”" = "طريقة دفع غير نقدية تسهل لك عملية الدفع في شارميفال";
+
+"Guest goes to top up booth to create a card / bracelet with their own associated data and add balance" = "يذهب الضيف إلى كشك التعبئة لإنشاء بطاقة / سوار بالبيانات المرتبطة به وإضافة رصيد";

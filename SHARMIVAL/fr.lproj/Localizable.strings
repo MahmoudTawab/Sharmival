@@ -1,0 +1,328 @@
+/* 
+  Localizable.strings
+  SHARMIVAL
+
+  Created by Emojiios on 06/09/2022.
+  
+*/
+
+"lang" = "fr";
+
+"back" = "retour";
+
+"Cancel" = "Annuler";
+
+"Close" = "proche";
+
+"Done" = "Fait";
+
+"of" = "F";
+
+"photo" = "photo";
+
+"photos" = "Photos";
+
+"Try Again" = "Réessayer";
+
+"Loading ...." = "Chargement ....";
+
+"Pull more" = "Tirez plus...";
+
+"Updating" = "Mise à jour...";
+
+"Error" = "Erreur";
+
+"Success" = "Succès";
+
+"min" = "min";
+
+"hour" = "heure";
+
+"day" = "journée";
+
+"week" = "la semaine";
+
+"month" = "mois";
+
+"Year" = "An";
+
+"ago" = "depuis";
+
+"s" = "s";
+
+"Search Results" = "Résultats de recherche";
+
+"Something went wrong" = "Quelque chose s'est mal passé";
+
+"The request timed out." = "La demande a expiré.";
+
+"InternetNotAvailable" = "Connexion Internet non disponible !";
+
+"There is no change in the data" = "Il n'y a pas de changement dans les données";
+
+"Something went wrong while processing your request, please try again later" = "Une erreur s'est produite lors du traitement de votre demande, veuillez réessayer plus tard";
+
+
+////// StatusCodes
+
+"ERROR MESSAG" = "MESSAGE D'ERREUR";
+"No Content" = "Pas de contenu";
+"NotModified" = "Non modifié";
+"Bad Request" = "Mauvaise demande";
+"Unauthorized" = "Non autorisé";
+"Not Found" = "Pas trouvé";
+"NotAllowed" = "Interdit";
+"internalServerError" = "Erreur interne du serveur";
+"Email is used" = "Le courrier électronique est utilisé";
+"Phone Number is used" = "Le numéro de téléphone est utilisé";
+"User already exists" = "L'utilisateur existe déjà";
+"You have reached the invitation limit" = "Vous avez atteint la limite d'invitation";
+
+
+////// FloatingTF
+
+"It can't be empty" = "Il ne peut pas être vide";
+
+"Enter the email correctly" = "Saisissez correctement l'e-mail";
+
+"The phone number should begin with 01" = "Saisissez correctement le numéro de téléphone";
+
+"Password must be more than 6 elements" = "Le mot de passe doit comporter plus de 6 caractères";
+
+
+//////  LocalizableScreen
+
+"Choose" = "Choisir";
+
+"Language" = "Langue";
+
+"Let’s start" = "Commençons";
+
+"your preferred" = "votre préféré";
+
+//////  WelcomeScreen
+
+"Next" = "Prochain";
+
+"FIND" = "TROUVER";
+
+"terms" = "termes";
+
+"Where" = "Où";
+
+"DON’T" = "NE LE FAITES PAS";
+
+"AROUND" = "AUTOUR DE";
+
+"Submit" = "Soumettre";
+
+"YOUR WAY" = "TA FAÇON";
+
+"Pervious" = "Perméable";
+
+"MISS OUT" = "PASSER";
+
+"SHARMIVAL" = "SHARMIVAL";
+
+"Settings" = "Réglages";
+
+"Allow notification Access" = "Autoriser l'accès aux notifications";
+
+"Allow notification access in your device settings." = "Autorisez l'accès aux notifications dans les paramètres de votre appareil.";
+
+"respects your privacy" = "respecte votre vie privée";
+
+"I understand & accept the" = "Je comprends et j'accepte les";
+
+"Creativity & Culture meet Care" = "La créativité et la culture rencontrent le soin";
+
+"Location Permission Required" = "Autorisation de localisation requise";
+
+"Please enable location permissions in settings." = "Veuillez activer les autorisations de localisation dans les paramètres.";
+
+"WelcomeMessage1" = "Il est temps de découvrir le premier carnaval de ville en Égypte où les arts créatifs de la culture égyptienne seront pratiqués et adoptés tout au long du carnaval. Cette année, le monde assistera à 3 jours complets de festivités et d'événements culturels à Sharm EL Sheikh City, en Égypte, présentant tous les éléments culturels égyptiens tout en prenant bien soin de notre environnement.";
+
+"WelcomeMessage2" = "Sharmival accorde une grande importance à votre vie privée et n'utilise aucune donnée personnelle comme indiqué dans la déclaration de confidentialité. Je comprends et autorise cette application à consulter les informations nécessaires au fonctionnement de l'application";
+
+"WelcomeMessage3" = "Autorisez les notifications et soyez le premier informé. Restez à jour sur toutes les nouvelles, alertes et annonces liées à Sharmival.";
+
+"WelcomeMessage4" = "En permettant à Sharmival d'utiliser votre service de localisation, Sharmival peut vous informer sur les emplacements exacts de chaque spot.";
+
+
+
+////// MyAccountVC
+
+"My" = "Mon";
+
+"Or" = "Ou";
+
+"Google" = "Google";
+
+"guest" = "invité";
+
+"Sign up" = "S'inscrire";
+
+"Account" = "compte";
+
+"Sign in" = "S'identifier";
+
+"Facebook" = "Facebook";
+
+"Continue as a" = "Continuer en tant que";
+
+"Sign up for your Sharmival account to unlock extra features such as your location tracking." = "Inscrivez-vous à votre compte Sharmival pour débloquer des fonctionnalités supplémentaires telles que votre suivi de localisation.";
+
+
+
+////// SignInVC
+
+"In" = "";
+
+"Sign" = "S'identifier";
+
+"Phone number" = "Numéro de téléphone";
+
+"Select your country" = "Sélectionnez votre pays";
+
+
+///// SignUpVC
+
+"UP" = "";
+
+"Sign" = "S'inscrire";
+
+"Last Name" = "Nom de famille";
+
+"First Name" = "Prénom";
+
+"Email Address" = "Adresse e-mail";
+
+
+///// VerificationVC
+
+"sec" = "segunda";
+
+"Enter" = "Ingresar";
+
+"Validate" = "Validar";
+
+"Resend OTP" = "Reenviar OTP";
+
+"Edit Number" = "Editar número";
+
+"Verification Code" = "Código de verificación";
+
+"OTP is not correct" = "OTP no es correcta";
+
+"Enter the code sent to" = "Ingrese el código enviado a";
+
+"The code will be resend in" = "El código será reenviado en";
+
+
+///// TabBarController
+
+"Map" = "Carte";
+
+"More" = "Plus";
+
+"Home" = "Accueil";
+
+"Events" = "Événements";
+
+"Program" = "Programme";
+
+
+////// HomeVC
+
+"Our" = "Notre";
+
+"Days" = "Journées";
+
+"Mins" = "Minutes";
+
+"Hours" = "Heures";
+
+"Gallery" = "Galerie";
+
+"View all" = "Voir tout";
+
+"Welcome to" = "Bienvenue à";
+
+"Mark your Calendar for Nov" = "Marquez votre calendrier pour novembre";
+
+
+////// Program
+
+"Show Fav" = "Afficher les favoris";
+
+"Explore our" = "Explorez notre";
+
+
+////// Events
+
+"All Days" = "Tous les jours";
+
+"Upcoming" = "A venir";
+
+
+////// Notification
+
+"Delete" = "Effacer";
+
+"Notification" = "Notification";
+
+"Delete Notification" = "Supprimer la notification";
+
+"Are You Sure You Want to Delete this Notifications" = "Êtes-vous sûr de vouloir supprimer ces notifications";
+
+
+////// PersonalVC
+
+"Save" = "sauvegarder";
+
+"Camera" = "Caméra";
+
+"Photo Library" = "Galerie de photos";
+
+"There is no change in the data" = "Il n'y a pas de changement dans les données";
+
+"Update image Error" = "Erreur de mise à jour de l'image";
+
+"The image has been successfully updated" = "L'image a été mise à jour avec succès";
+
+"Your personal data has been updated successfully" = "Vos données personnelles ont été mises à jour avec succès";
+
+
+////// MoreVC
+
+"FAQS" = "FAQ";
+
+"Scan" = "Analyse";
+
+"Explore" = "Explorer";
+
+"Setting" = "Paramètre";
+
+"Log Out" = "Se déconnecter";
+
+"Currency" = "Devise";
+
+"Sponsors" = "Commanditaires";
+
+"Get Bracelet" = "Obtenir un bracelet";
+
+"Transportation" = "Transport";
+
+"Sharmival Currency" = "Monnaie Sharmival";
+
+"View locations on the map" = "Afficher les emplacements sur la carte";
+
+"Are You Sure You Want to log out of your account" = "Êtes-vous sûr de vouloir vous déconnecter de votre compte";
+
+"Staff scan guest’s card/bracelet to place an order from the menu" = "Le personnel scanne la carte/le bracelet du client pour passer une commande à partir du menu";
+
+"“Used for buying anything from the Bazars, Stores and F&B Kiosks”" = "Utilisé pour acheter quoi que ce soit dans les bazars, les magasins et les kiosques F&B";
+
+"“A cashless payment method that facilitates to you the payment process in Sharmival”" = "Un moyen de paiement sans numéraire qui vous facilite le processus de paiement à Sharmival";
+
+"Guest goes to top up booth to create a card / bracelet with their own associated data and add balance" = "L'invité se rend au stand de recharge pour créer une carte / un bracelet avec ses propres données associées et ajouter un solde";
